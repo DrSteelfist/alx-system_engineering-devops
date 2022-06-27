@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo "Hello, World" 
-=======
-cat Hello, World
->>>>>>> f51c5bcbfdb6631b96990833b185e88ed06c2978
+echo "Hello, World"
