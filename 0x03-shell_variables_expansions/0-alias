@@ -1,0 +1,2 @@
+#!/bin/bash
+alias cx="chmod u+x"
